@@ -1,0 +1,11 @@
+{
+    "name": "strilchuk/winestyle-test",
+    "description": "Test project for Winestyle",
+    "authors": [
+        {
+            "name": "strilchuk",
+            "email": "strilchukalexander@gmail.com"
+        }
+    ],
+    "require": {}
+}
