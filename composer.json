@@ -7,5 +7,14 @@
             "email": "strilchukalexander@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "App\\": "App/"
+        }
+    },
+    "require": {
+        "klein/klein": "^2.1",
+        "vlucas/phpdotenv": "^4.1"
+    }
 }
