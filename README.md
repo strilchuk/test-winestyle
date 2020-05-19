@@ -1,7 +1,7 @@
 # Тестовое задание для компании WineStyle
 
 ### Описание
-Демо: https://winestyle.strilchuk.ru  
+Демо: http://winestyle.strilchuk.ru  
 Проект представляет собой веб-приложение с MVC архитектурой.  
 Точка входа в приложение находится в файле public/index.php.  
 Маршрутизация задается в файле App/Routes.  
